@@ -79,7 +79,7 @@ Looking ahead, advanced cryptographic identities and reputation algorithms will 
 These potential developments underscore how the Agentic Web reaches far beyond the initial prototypes and pilots. By welcoming specialized agents into a shared, directory-driven environment, the community can iterate on essential standards while watching real-world collaborations unfold. In doing so, the network matures organically, leading to further innovation in AI-driven services, greater interoperability, and a more adaptive, intelligence-rich internet for everyone.
 
 ## 9. Technical Implementation and Code Examples
-To ground these ideas in a practical context, this section presents a simplified technical blueprint—along with Python examples—that mirror the logic from a Bun/JavaScript-based agent implementation. These snippets illustrate the core mechanisms of directory lookups, intent detection, escalation, and how to provide an OpenAI-compatible API.
+To ground these ideas in a practical context, this section presents a simplified technical blueprint—along with Python examples. These snippets illustrate the core mechanisms of directory lookups, intent detection, escalation, and how to provide an OpenAI-compatible API.
 
 ### 9.1 Directory Lookup and Escalation
 Instead of hard-coding calls to external services, agents query a directory to locate the endpoint of a specialized provider. This code snippet shows a minimal approach for domain registration escalation:
